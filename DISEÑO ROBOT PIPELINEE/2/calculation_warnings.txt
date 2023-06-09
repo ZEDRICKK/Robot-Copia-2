@@ -1,0 +1,7 @@
+2023-Jun-08 16:36:28
+Computer name:	ZEDRICK
+Number of cores used in calculation:	16
+Configuration name:	Predeterminado
+Project name:	SIMULACION CON GAS
+
+Warnings on last iteration: 

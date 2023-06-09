@@ -1,0 +1,65 @@
+Model: SIMULACIÓN con motion y fluido.SLDASM
+Project name: GAS
+Config name: Predeterminado
+Project path: C:\Users\oscar\Desktop\INNOVANDO ANDO\DISEÑO ROBOT PIPELINEE\3\3.xmlconfig
+Status: Finished
+
+Number of cells:
+    Total cells: 5367
+    Fluid cells: 5367
+    Solid cells: 3999
+    Fluid cells containing solids: 3340
+
+
+Geometry preparation finished: 16:58:53
+Geometry preparation time: 00:00:01
+Solver CPU time: 00:00:08
+Iterations: 66
+Travels: 1.65000
+Physical time: 0.000000e+00 s
+Current time step: 0.000000e+00 s
+Last iteration finished: 16:59:00
+CPU time per last iteration: 00:00:01
+CPU time left: 00:00:00
+Iterations per 1 travel: 41
+
+Goals
+    Name                          | Unit (SI)           | Value           | Progress  | Critetia        | Delta           | Use in convergence
+    GG Minimum Static Pressure 1  | pressure and stress |       101324.93 |     100.0 |            0.00 |            0.00 | On
+    GG Minimum Total Pressure 2   | pressure and stress |       101324.93 |     100.0 |            0.00 |            0.00 | On
+    GG Minimum Dynamic Pressure 3 | pressure and stress |            0.00 |     100.0 |            0.00 |            0.00 | On
+    GG Minimum Density (Fluid) 4  | density             |            0.08 |     100.0 |            0.00 |            0.00 | On
+    GG Minimum Velocity 5         | speed and velocity  |            0.00 |     100.0 |            0.00 |            0.00 | On
+    GG Force 6                    | force               |            0.03 |     100.0 |            0.00 |            0.00 | On
+    GG Force (X) 7                | force               |           -0.00 |     100.0 |            0.00 |            0.00 | On
+    GG Force (Y) 8                | force               |            0.00 |     100.0 |            0.00 |            0.00 | On
+    GG Force (Z) 9                | force               |           -0.03 |     100.0 |            0.00 |            0.00 | On
+    GG Friction Force 10          | force               |            0.00 |     100.0 |            0.00 |            0.00 | On
+    GG Friction Force (X) 11      | force               |           -0.00 |     100.0 |            0.00 |            0.00 | On
+    GG Friction Force (Y) 12      | force               |            0.00 |     100.0 |            0.00 |            0.00 | On
+    GG Friction Force (Z) 13      | force               |            0.00 |     100.0 |            0.00 |            0.00 | On
+
+Project details
+    Default fluids: Hydrogen
+    Analysis type: Internal
+    Heat conduction in solids: Off
+    Radiation: Off
+    Time dependent: Off
+    Gravitational effects: On
+    Flow type: Laminar and turbulent
+    Cavitation: Off
+    Hign Mach number flow: On
+    Free surface: Off
+    Structural: Off
+    Electromagnetism: Off
+
+System info
+    Product: Flow Simulation 2022  x64 / 5593 / SOLVER ver. efd_2021_2.5587_14.01.2022+LamBL_4order_point_appr
+    CAD version: SOLIDWORKS 2022 SP2.0
+    Computer name: ZEDRICK
+    User name: oscar
+    Operating system: Windows 10 (or higher) (Version 10.0.22621)
+    Processors: AMD Ryzen 9 6900HX with Radeon Graphics        
+    Number of cores: 16
+    Memory: 5836 MB / 15557 MB
+
