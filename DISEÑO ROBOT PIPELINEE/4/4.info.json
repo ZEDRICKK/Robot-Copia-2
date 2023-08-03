@@ -1,0 +1,188 @@
+{
+    "version": 0,
+    "model_name": "SIMULACION DE TUBO CON GAS.SLDASM",
+    "project_name": "NITROGENO",
+    "config_name": "Predeterminado(1)",
+    "project_path": "C:\\Users\\oscar\\Desktop\\INNOVANDO ANDO - Copy\\DISEÑO ROBOT PIPELINEE\\4\\4.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 5434,
+        "cells_fluid": 5434,
+        "cells_solid": 4180,
+        "cells_fluid_containing_solid": 3461
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "01:24:10-0600",
+        "prepare_geometry_total_time": 1,
+        "cpu_time_solver_total": 9,
+        "iteration": 75,
+        "travel": 1.8749999999999973,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "01:24:17-0600",
+        "cpu_time_per_last_iter": 1,
+        "cpu_time_left": 0,
+        "iterations_per_travel": 41
+    },
+    "goals": [
+        {
+            "goal": {
+                "name": "GG Average Static Pressure 1",
+                "unit": "pressure and stress",
+                "value": 101326.04374546037,
+                "progress": 100.0,
+                "criteria": 0.11783280459701598,
+                "delta": 0.002987159838085063,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Average Total Pressure 2",
+                "unit": "pressure and stress",
+                "value": 101326.20952657789,
+                "progress": 100.0,
+                "criteria": 0.11808203468765925,
+                "delta": 0.0033116475387942046,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Average Dynamic Pressure 3",
+                "unit": "pressure and stress",
+                "value": 0.16578096564275957,
+                "progress": 100.0,
+                "criteria": 0.0007473562786976094,
+                "delta": 0.0005550387485606101,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Average Density (Fluid) 4",
+                "unit": "density",
+                "value": 1.1644808879864852,
+                "progress": 100.0,
+                "criteria": 1.4037010286392546e-06,
+                "delta": 4.085673466214246e-08,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Average Velocity 5",
+                "unit": "speed and velocity",
+                "value": 0.5108090622258659,
+                "progress": 100.0,
+                "criteria": 0.0014148793449508537,
+                "delta": 9.871714225018202e-05,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Average Velocity (X) 6",
+                "unit": "speed and velocity",
+                "value": 0.00012644319365829628,
+                "progress": 100.0,
+                "criteria": 8.063644432459828e-05,
+                "delta": 7.348118737078555e-05,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Average Velocity (Y) 7",
+                "unit": "speed and velocity",
+                "value": 0.5090406478794277,
+                "progress": 100.0,
+                "criteria": 0.0017940396445364308,
+                "delta": 5.1935153247750776e-05,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Average Velocity (Z) 8",
+                "unit": "speed and velocity",
+                "value": 0.0017259411607792798,
+                "progress": 100.0,
+                "criteria": 0.00027384164602029985,
+                "delta": 9.176677830421845e-06,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Force 9",
+                "unit": "force",
+                "value": 0.40220832144326574,
+                "progress": 100.0,
+                "criteria": 0.000123784426551641,
+                "delta": 4.418288780727586e-06,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Force (X) 10",
+                "unit": "force",
+                "value": 6.99208050235513e-05,
+                "progress": 100.0,
+                "criteria": 9.962175730185824e-05,
+                "delta": 1.0400267581139086e-05,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Force (Y) 11",
+                "unit": "force",
+                "value": 0.016246249855989995,
+                "progress": 100.0,
+                "criteria": 0.0013231911769257454,
+                "delta": 6.628845927377641e-05,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Force (Z) 12",
+                "unit": "force",
+                "value": -0.40188006707836,
+                "progress": 100.0,
+                "criteria": 0.00011516064307112932,
+                "delta": 6.790883971707906e-06,
+                "use_in_convergence": true
+            }
+        }
+    ],
+    "settings": {
+        "default_fluids": [
+            "Nitrogen"
+        ],
+        "analysis_type": "internal",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": true,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2022  x64 / 5593 / SOLVER ver. efd_2021_2.5587_14.01.2022+LamBL_4order_point_appr",
+        "cad_version": "SOLIDWORKS 2022 SP2.0",
+        "computer_name": "ZEDRICK",
+        "user_name": "oscar",
+        "os": "Windows 10 (or higher) (Version 10.0.22621)",
+        "cpu": "AMD Ryzen 9 6900HX with Radeon Graphics        ",
+        "number_of_cores": 16,
+        "memory_avail": 7694,
+        "memory_total": 15557
+    }
+}

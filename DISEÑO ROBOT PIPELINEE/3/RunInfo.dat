@@ -1,29 +1,29 @@
-﻿absolute path:C:\Users\oscar\Desktop\INNOVANDO ANDO\DISEÑO ROBOT PIPELINEE\3
+﻿absolute path:C:\Users\oscar\Desktop\INNOVANDO ANDO - Copy\DISEÑO ROBOT PIPELINEE\3
 init:1
-run_capture:1
+run_capture:0
 run_solver:1
-new_calc:1
+new_calc:0
 close_monitor:0
 run_convert:0
 isOK:1
-ForceNewCalc:1
-run_capture_prestate:1
-StartFldName:
+ForceNewCalc:0
+run_capture_prestate:0
+StartFldName:C:\Users\oscar\Desktop\INNOVANDO ANDO - Copy\DISEÑO ROBOT PIPELINEE\3\3.fld
 NewCalcStartCptName:
 TransTimeMoments:
 TransFldNames:
 CurSelTranFld:0
 Trans:0
 UsePrevRes:0
-ForcetoRunCPT:1
+ForcetoRunCPT:0
 ComputerName:
-port:61027
+port:52754
 ProcessResults:1
 LoadLastResult:1
 ProcessorsToUse:0
 LoadBaseFLDFile:0
 BaseFLDFile:
-id:{ABC3ECC1-1967-4660-8B0E-119F63C3DE9E}
+id:{25870F85-E448-44C2-AD98-A252F6B4B053}
 calculation_state:5
 ForceContinue:0
-SolverProcessId:4176
+SolverProcessId:19440

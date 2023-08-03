@@ -1,0 +1,7 @@
+2023-Jun-29 01:24:17
+Computer name:	ZEDRICK
+Number of cores used in calculation:	16
+Configuration name:	Predeterminado(1)
+Project name:	NITROGENO
+
+Warnings on last iteration: 

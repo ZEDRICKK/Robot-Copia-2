@@ -3,23 +3,23 @@
     "model_name": "SIMULACIÓN con motion y fluido.SLDASM",
     "project_name": "GAS",
     "config_name": "Predeterminado",
-    "project_path": "C:\\Users\\oscar\\Desktop\\INNOVANDO ANDO\\DISEÑO ROBOT PIPELINEE\\3\\3.xmlconfig",
+    "project_path": "C:\\Users\\oscar\\Desktop\\INNOVANDO ANDO - Copy\\DISEÑO ROBOT PIPELINEE\\3\\3.xmlconfig",
     "finished": true,
     "mesh": {
-        "cells_total": 5367,
-        "cells_fluid": 5367,
-        "cells_solid": 3999,
-        "cells_fluid_containing_solid": 3340
+        "cells_total": 5355,
+        "cells_fluid": 5355,
+        "cells_solid": 4007,
+        "cells_fluid_containing_solid": 3355
     },
     "telemetry": {
-        "prepare_geometry_finished": "16:58:53-0600",
+        "prepare_geometry_finished": "16:20:20-0600",
         "prepare_geometry_total_time": 1,
-        "cpu_time_solver_total": 8,
-        "iteration": 66,
-        "travel": 1.6499999999999981,
+        "cpu_time_solver_total": 7,
+        "iteration": 52,
+        "travel": 1.2999999999999994,
         "phys_time": 0.0,
         "time_step": 0.0,
-        "last_iteration_finished": "16:59:00-0600",
+        "last_iteration_finished": "16:20:25-0600",
         "cpu_time_per_last_iter": 1,
         "cpu_time_left": 0,
         "iterations_per_travel": 41
@@ -29,10 +29,10 @@
             "goal": {
                 "name": "GG Minimum Static Pressure 1",
                 "unit": "pressure and stress",
-                "value": 101324.93256071753,
+                "value": 101324.93335300511,
                 "progress": 100.0,
-                "criteria": 0.0014610487319966776,
-                "delta": 0.0003796975070144981,
+                "criteria": 0.00523914121263544,
+                "delta": 0.0003866305196424946,
                 "use_in_convergence": true
             }
         },
@@ -40,10 +40,10 @@
             "goal": {
                 "name": "GG Minimum Total Pressure 2",
                 "unit": "pressure and stress",
-                "value": 101324.93256071753,
+                "value": 101324.93335300511,
                 "progress": 100.0,
-                "criteria": 0.0014610487319966776,
-                "delta": 0.0003796975070144981,
+                "criteria": 0.00523914121263544,
+                "delta": 0.0003866305196424946,
                 "use_in_convergence": true
             }
         },
@@ -62,10 +62,10 @@
             "goal": {
                 "name": "GG Minimum Density (Fluid) 4",
                 "unit": "density",
-                "value": 0.08379381950220621,
+                "value": 0.08379382485461032,
                 "progress": 100.0,
-                "criteria": 8.379381950220622e-10,
-                "delta": 8.256678812879059e-10,
+                "criteria": 4.854187529245156e-09,
+                "delta": 8.848105997882882e-10,
                 "use_in_convergence": true
             }
         },
@@ -84,10 +84,10 @@
             "goal": {
                 "name": "GG Force 6",
                 "unit": "force",
-                "value": 0.031175792647177875,
+                "value": 0.0311990515410471,
                 "progress": 100.0,
-                "criteria": 1.029442024579489e-05,
-                "delta": 3.4607823274183935e-06,
+                "criteria": 1.7657080218907686e-05,
+                "delta": 6.4934080579379105e-06,
                 "use_in_convergence": true
             }
         },
@@ -95,10 +95,10 @@
             "goal": {
                 "name": "GG Force (X) 7",
                 "unit": "force",
-                "value": -4.223572592798266e-06,
+                "value": -8.764957117989437e-07,
                 "progress": 100.0,
-                "criteria": 9.994640209273925e-06,
-                "delta": 2.7056567839977085e-06,
+                "criteria": 5.6449972905545096e-06,
+                "delta": 2.273720322987778e-06,
                 "use_in_convergence": true
             }
         },
@@ -106,10 +106,10 @@
             "goal": {
                 "name": "GG Force (Y) 8",
                 "unit": "force",
-                "value": 0.0023148132626353733,
+                "value": 0.0019583638605579334,
                 "progress": 100.0,
-                "criteria": 0.00011329974659665555,
-                "delta": 1.192498142045962e-06,
+                "criteria": 0.00010797852795236531,
+                "delta": 4.511405622299215e-06,
                 "use_in_convergence": true
             }
         },
@@ -117,10 +117,10 @@
             "goal": {
                 "name": "GG Force (Z) 9",
                 "unit": "force",
-                "value": -0.03108973574832041,
+                "value": -0.03113752763599463,
                 "progress": 100.0,
-                "criteria": 9.57798341046338e-06,
-                "delta": 3.504485069291685e-06,
+                "criteria": 9.682069197573325e-06,
+                "delta": 6.344278002168302e-06,
                 "use_in_convergence": true
             }
         },
@@ -128,10 +128,10 @@
             "goal": {
                 "name": "GG Friction Force 10",
                 "unit": "force",
-                "value": 0.0008946831910919428,
+                "value": 0.0007988299162065039,
                 "progress": 100.0,
-                "criteria": 4.495143231729436e-05,
-                "delta": 8.669482247328653e-07,
+                "criteria": 4.3030370488532377e-05,
+                "delta": 3.1736557960878762e-06,
                 "use_in_convergence": true
             }
         },
@@ -139,10 +139,10 @@
             "goal": {
                 "name": "GG Friction Force (X) 11",
                 "unit": "force",
-                "value": -6.413425711024528e-06,
+                "value": 3.382594676811219e-06,
                 "progress": 100.0,
-                "criteria": 9.732968336403981e-07,
-                "delta": 6.086510028375027e-07,
+                "criteria": 8.349807045164539e-07,
+                "delta": 8.197061879327379e-07,
                 "use_in_convergence": true
             }
         },
@@ -150,10 +150,10 @@
             "goal": {
                 "name": "GG Friction Force (Y) 12",
                 "unit": "force",
-                "value": 0.0008946577957234327,
+                "value": 0.0007987565388816655,
                 "progress": 100.0,
-                "criteria": 4.495285319782412e-05,
-                "delta": 8.647264300860576e-07,
+                "criteria": 4.304051996895815e-05,
+                "delta": 3.158775555906672e-06,
                 "use_in_convergence": true
             }
         },
@@ -161,10 +161,10 @@
             "goal": {
                 "name": "GG Friction Force (Z) 13",
                 "unit": "force",
-                "value": 2.0757997011847927e-06,
+                "value": 1.0285167646897997e-05,
                 "progress": 100.0,
-                "criteria": 6.439901612302261e-07,
-                "delta": 3.407473237329226e-07,
+                "criteria": 8.417549649306913e-07,
+                "delta": 2.009889671468058e-07,
                 "use_in_convergence": true
             }
         }
@@ -193,7 +193,7 @@
         "os": "Windows 10 (or higher) (Version 10.0.22621)",
         "cpu": "AMD Ryzen 9 6900HX with Radeon Graphics        ",
         "number_of_cores": 16,
-        "memory_avail": 5836,
+        "memory_avail": 7929,
         "memory_total": 15557
     }
 }
